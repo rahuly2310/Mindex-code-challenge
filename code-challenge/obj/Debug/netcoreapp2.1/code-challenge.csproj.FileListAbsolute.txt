@@ -1,0 +1,13 @@
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+D:\RIT\Mindex Challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+D:\RIT\Mindex Challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+D:\RIT\Mindex Challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+D:\RIT\Mindex Challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+D:\RIT\Mindex Challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
